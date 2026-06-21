@@ -15,7 +15,7 @@ export const rentalCars = [
     images: [
       "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
       "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80"
+      // "https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80"
     ],
     features: ["GPS Navigation", "Bose Audio", "Leather Seats", "Adaptive Cruise Control", "Apple CarPlay", "Heated Seats"],
     engine: "3.0L Twin-Turbo Flat-6",
@@ -36,8 +36,8 @@ export const rentalCars = [
     pricePerDay: 32000,
     images: [
       "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1571127236794-81c0bbfe1ce3?auto=format&fit=crop&w=800&q=80"
+      // "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80",
+      // "https://images.unsplash.com/photo-1571127236794-81c0bbfe1ce3?auto=format&fit=crop&w=800&q=80"
     ],
     features: ["Autopilot", "17\" Cinema Display", "Tri-Motor AWD", "Panoromic Roof", "Ventilated Seats", "Gaming Computer"],
     engine: "Tri-Motor Electric",
@@ -58,8 +58,8 @@ export const rentalCars = [
     pricePerDay: 38000,
     images: [
       "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80"
+      // "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80",
+      // "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80"
     ],
     features: ["M Sport Exhaust", "Carbon Fiber Trim", "Heads-Up Display", "Harmon Kardon Sound", "Drift Analyzer", "Track Mode"],
     engine: "3.0L Twin-Turbo Inline-6",
@@ -80,8 +80,8 @@ export const rentalCars = [
     pricePerDay: 65000,
     images: [
       "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=800&q=80"
+      // "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80",
+      // "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=800&q=80"
     ],
     features: ["Burmester Surround Sound", "AMG Ride Control", "Active Aerodynamics", "Nappa Leather", "Airscarf Neck Heating", "AMG Track Pace"],
     engine: "4.0L Twin-Turbo V8",
@@ -145,9 +145,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 35000,
     images: [
-      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1725815761064-b84c3f4f9b94?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHx8MA%3D%3D3wxMjA3fDB8MHxzZWFyY2h8M3x8cmFuZ2UlMjByb3ZlcnxlbnwwfHwwfHx8MA%3D%3D",
+      
     ],
     features: ["Supercharged Exhaust", "Panoromic Sunroof", "Meridian Signature Sound", "Aesthetic Ambient Lighting", "Air Suspension", "Terrain Response 2"],
     engine: "5.0L Supercharged V8",
@@ -167,9 +166,9 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 48000,
     images: [
-      "https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1757366762496-45e97e68a299?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzF8fFBvcnNjaGUlMjBUYXljYW4lMjBUdXJibyUyMFN8ZW58MHx8MHx8fDA%3D",
+      // "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
+      // "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80"
     ],
     features: ["Dual-Motor AWD", "Performance Battery Plus", "Burmester High-End Sound", "Matrix LED Headlights", "Porsche Electric Sport Sound", "Four-Zone Climate"],
     engine: "Dual Electric Motors",
@@ -189,9 +188,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 70000,
     images: [
-      "https://images.unsplash.com/photo-1520050206274-a1ae446cb3cc?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1648413653877-ade5eefd2f1b?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8TWVyY2VkZXMtQmVueiUyMEc2MyUyMEFNR3xlbnwwfHwwfHx8MA%3D%3D",
+      
     ],
     features: ["Burmester Surround Sound", "Dual Side-Pipe Exhaust", "Designo Leather", "Triple Lock Differentials", "Massage Seats", "AMG Night Package"],
     engine: "4.0L Twin-Turbo V8",
@@ -211,9 +209,9 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 28000,
     images: [
-      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80",
+      
       "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80"
+      
     ],
     features: ["Quattro AWD", "Bang & Olufsen Audio", "Head-Up Display", "Heated Steering Wheel", "Carbon Fiber Roof", "360 Camera System"],
     engine: "Dual Electric Motors",
@@ -234,8 +232,7 @@ export const rentalCars = [
     pricePerDay: 42000,
     images: [
       "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80"
+      
     ],
     features: ["M xDrive AWD", "Carbon Roof", "Laserlights", "Merino Leather", "Ventilated Seats", "Alcantara Headliner"],
     engine: "4.4L Twin-Turbo V8",
@@ -256,8 +253,7 @@ export const rentalCars = [
     pricePerDay: 18000,
     images: [
       "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1571127236794-81c0bbfe1ce3?auto=format&fit=crop&w=800&q=80"
+      
     ],
     features: ["Autopilot", "15\" Touchscreen", "Dual Motor AWD", "Plaid Brake Calipers", "Foldable Seats", "Supercharger Network"],
     engine: "Dual Electric Motor",
@@ -278,8 +274,7 @@ export const rentalCars = [
     pricePerDay: 30000,
     images: [
       "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=800&q=80"
+      
     ],
     features: ["Mid-Engine Layout", "Bose Premium Audio", "Removable Roof Panel", "Performance Data Recorder", "Drive Mode Selector", "Nappa Leather"],
     engine: "6.2L LT2 V8",
@@ -299,9 +294,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 25000,
     images: [
-      "https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1588127333419-b9d7de223dcf?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8Rm9yZCUyME11c3RhbmclMjBTaGVsYnklMjBHVDUwMHxlbnwwfHwwfHx8MA%3D%3D",
+      
     ],
     features: ["Supercharger Whine", "MagneRide Damping", "Recaro Seats", "Brembo 6-Piston Brakes", "Carbon Fiber Track Wing", "Line Lock Mode"],
     engine: "5.2L Supercharged V8",
@@ -321,9 +315,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 15000,
     images: [
-      "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1677318159209-86ee88e9c5ed?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8SmVlcCUyMFdyYW5nbGVyJTIwUnViaWNvbiUyMDM5MnxlbnwwfHwwfHx8MA%3D%3D",
+      
     ],
     features: ["35-inch Tires", "Dual-Mode Exhaust", "Electronic Swaybar Disconnect", "Fox Shocks", "Removable Doors/Roof", "Leather Seats"],
     engine: "6.4L HEMI V8",
@@ -343,9 +336,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 60000,
     images: [
-      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1730365646174-5cd3d9136dd0?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fEFzdG9uJTIwTWFydGluJTIwVmFudGFnZXxlbnwwfHwwfHx8MA%3D%3D",
+     
     ],
     features: ["Signature Front Grille", "Alcantara/Leather Trim", "Aston Martin Audio", "Active Exhaust", "Carbon Fiber Splitter", "Heated Seats"],
     engine: "4.0L Twin-Turbo V8",
@@ -365,9 +357,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 20000,
     images: [
-      "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1662500038326-55ab4cc8aeda?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TGV4dXMlMjBMQyUyMDUwMCUyMENvdXBlfGVufDB8fDB8fHww",
+      
     ],
     features: ["Mark Levinson Audio", "Naturally Aspirated V8", "LFA-Style Gauges", "Alcantara Doors", "Pre-Collision System", "Active Rear Spoiler"],
     engine: "5.0L Naturally Aspirated V8",
@@ -387,9 +378,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 22000,
     images: [
-      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1710384929737-3b1bff44f6f8?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8TWFzZXJhdGklMjBHaGlibGklMjBUcm9mZW98ZW58MHx8MHx8fDA%3D",
+
     ],
     features: ["Ferrari-Built Engine", "Corsa Performance Mode", "Carbon Trim", "Harman Kardon Audio", "Adaptive Suspensions", "Italian Leather Accent"],
     engine: "3.8L Twin-Turbo V8",
@@ -409,9 +399,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 45000,
     images: [
-      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1655126673689-d9d0eac9c80e?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8QXVkaSUyMFJTNiUyMEF2YW50fGVufDB8fDB8fHww",
+      
     ],
     features: ["Quattro AWD", "Widebody Styling", "Dynamic Ride Control", "Massive Trunk Space", "Heads-Up Display", "Rear-Wheel Steering"],
     engine: "4.0L Twin-Turbo V8",
@@ -431,9 +420,8 @@ export const rentalCars = [
     transmission: "Automatic",
     pricePerDay: 38000,
     images: [
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1520050206274-a1ae446cb3cc?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=800&q=80"
+      "https://images.unsplash.com/photo-1551836989-b4622a17a792?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8TWVyY2VkZXMtQU1HJTIwRTYzJTIwU3xlbnwwfHwwfHx8MA%3D%3D",
+     
     ],
     features: ["Drift Mode AWD+", "AMG Exhaust", "Massage Seats", "64-Color Ambient Lighting", "Acoustic Comfort Package", "Dual Screens"],
     engine: "4.0L Twin-Turbo V8",
@@ -455,7 +443,7 @@ export const usedCars = [
     transmission: "Automatic",
     images: [
       "https://images.unsplash.com/photo-1555215695-3004980ad54e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80"
+      
     ],
     engine: "2.0L 4-Cylinder Turbo",
     power: "255 HP",
@@ -482,7 +470,7 @@ export const usedCars = [
     transmission: "Automatic",
     images: [
       "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1617531653332-bd46c24f2068?auto=format&fit=crop&w=800&q=80"
+      
     ],
     engine: "2.0L Turbocharged I4",
     power: "248 HP",
@@ -536,7 +524,7 @@ export const usedCars = [
     transmission: "Automatic",
     images: [
       "https://images.unsplash.com/photo-1617788138017-80ad40651399?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=800&q=80"
+      
     ],
     engine: "Dual Motor Electric",
     power: "425 HP",
@@ -562,7 +550,7 @@ export const usedCars = [
     fuel: "Petrol",
     transmission: "Automatic",
     images: [
-      "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=800&q=80",
+      
       "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=800&q=80"
     ],
     engine: "2.0L Turbo Inline-4",
@@ -590,7 +578,7 @@ export const usedCars = [
     transmission: "Manual",
     images: [
       "https://images.unsplash.com/photo-1614162692292-7ac56d7f7f1e?auto=format&fit=crop&w=800&q=80",
-      "https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80"
+      
     ],
     engine: "4.0L Naturally Aspirated Flat-6",
     power: "414 HP",
@@ -688,7 +676,7 @@ export const usedCars = [
     mileage: 45000,
     fuel: "Petrol",
     transmission: "Manual",
-    images: ["https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1686074449582-6374eaebacf3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8Q2l2aWMlMjBUeXBlJTIwUnxlbnwwfHwwfHx8MA%3D%3D"],
     engine: "2.0L Turbocharged I4",
     power: "306 HP",
     owners: 2,
@@ -706,7 +694,7 @@ export const usedCars = [
     mileage: 28000,
     fuel: "Petrol",
     transmission: "Manual",
-    images: ["https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1655628266959-12ec3f839a46?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zm9yZCUyMG11c3RhbmclMjBndHxlbnwwfHwwfHx8MA%3D%3D"],
     engine: "5.0L Coyote V8",
     power: "460 HP",
     owners: 1,
@@ -735,14 +723,14 @@ export const usedCars = [
   },
   {
     id: "u14",
-    brand: "Land Rover",
-    model: "Range Rover Velar P340",
+    brand: "Defender",
+    model: "Range Rover Defender 110 SE",
     year: 2020,
     price: 6200000,
     mileage: 39000,
     fuel: "Petrol",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1722786102904-c6bf6bec8fc3?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZGVmZW5kZXIlMjAxMTB8ZW58MHx8MHx8fDA%3D"],
     engine: "3.0L Supercharged V6",
     power: "340 HP",
     owners: 2,
@@ -778,7 +766,7 @@ export const usedCars = [
     mileage: 32000,
     fuel: "Petrol",
     transmission: "Manual",
-    images: ["https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1773384654741-cbb48b21363f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fFdSWCUyMFNUSSUyMExpbWl0ZWR8ZW58MHx8MHx8fDA%3D"],
     engine: "2.5L Turbocharged Boxer-4",
     power: "310 HP",
     owners: 1,
@@ -832,7 +820,7 @@ export const usedCars = [
     mileage: 15000,
     fuel: "Petrol",
     transmission: "Manual",
-    images: ["https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1562911791-c7a97b729ec5?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Q2FtYXJvJTIwU1MlMjAxTEV8ZW58MHx8MHx8fDA%3D"],
     engine: "6.2L V8",
     power: "455 HP",
     owners: 1,
@@ -868,7 +856,7 @@ export const usedCars = [
     mileage: 39500,
     fuel: "Hybrid",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1629897048514-3dd7414fe72a?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dm9sdm98ZW58MHx8MHx8fDA%3D"],
     engine: "2.0L Turbo & Supercharged Hybrid",
     power: "400 HP",
     owners: 1,
@@ -904,7 +892,7 @@ export const usedCars = [
     mileage: 18500,
     fuel: "Petrol",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1607853202273-797f1c22a38e?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/flagged/photo-1553505192-acca7d4509be?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJtdyUyMG01fGVufDB8fDB8fHww"],
     engine: "4.4L Twin-Turbo V8",
     power: "617 HP",
     owners: 1,
@@ -922,7 +910,7 @@ export const usedCars = [
     mileage: 27000,
     fuel: "Electric",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1611245801484-96317d5a9005?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1668624425139-32cfa14ab349?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fFRheWNhbiUyMDRTfGVufDB8fDB8fHww"],
     engine: "Dual Electric Motor",
     power: "522 HP",
     owners: 2,
@@ -940,7 +928,7 @@ export const usedCars = [
     mileage: 14200,
     fuel: "Petrol",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1584345604476-8ec5e12e42dd?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1618205062886-3976f4bb8219?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8U3VwcmF8ZW58MHx8MHx8fDA%3D"],
     engine: "3.0L Turbo Inline-6",
     power: "382 HP",
     owners: 1,
@@ -958,7 +946,7 @@ export const usedCars = [
     mileage: 39000,
     fuel: "Petrol",
     transmission: "Automatic",
-    images: ["https://images.unsplash.com/photo-1520050206274-a1ae446cb3cc?auto=format&fit=crop&w=800&q=80"],
+    images: ["https://images.unsplash.com/photo-1616875491585-8e2464195d5f?w=1000&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8R0xDJTIwNDMlMjBBTUclMjBDb3VwZXxlbnwwfHwwfHx8MA%3D%3D"],
     engine: "3.0L Twin-Turbo V6",
     power: "385 HP",
     owners: 2,

@@ -27,3 +27,4 @@ dist-ssr
 /test_node.bat
 /test.bat
 /package-lock.json
+/package.json
