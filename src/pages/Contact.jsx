@@ -197,12 +197,12 @@ const Contact = () => {
             </div>
             
             <div className="absolute bottom-4 left-4 bg-white/80 backdrop-blur-md px-3 py-1.5 rounded-xl border border-slate-200/50 text-[10px] text-slate-500 font-semibold shadow-sm z-10">
-              Beverly Hills Coordinates &bull; Lat: 34.0736 &deg; N
+              Dehradun Coordinates &bull; Lat: 30.3165 &deg; N, Long: 78.0322 &deg; E
             </div>
           </div>
         </div>
 
-      </div>
+      </div>  
     </div>
   );
 };
